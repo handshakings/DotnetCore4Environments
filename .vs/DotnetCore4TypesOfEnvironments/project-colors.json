@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ae8a1ab0-34a4-4d63-bd41-fd5a19dea765": {
+      "ProjectGuid": "ae8a1ab0-34a4-4d63-bd41-fd5a19dea765",
+      "DisplayName": "DotnetCore4TypesOfEnvironments",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

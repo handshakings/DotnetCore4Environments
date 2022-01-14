@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DotnetCore4TypesOfEnvironments/1.0.0": {
+        "runtime": {
+          "DotnetCore4TypesOfEnvironments.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotnetCore4TypesOfEnvironments/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
